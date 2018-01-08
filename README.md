@@ -1,7 +1,7 @@
 # ZooFlow
 Amplicon analysis pipeline for interogation of COI sequence data.
 
-# Workflow
+# Workflow notes
 
 Read trimming (Sickle or SeqTK)
 
