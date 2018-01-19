@@ -3,11 +3,11 @@ Amplicon analysis pipeline for interogation of COI sequence data.
 
 # Workflow notes
 
-Read trimming (Sickle or SeqTK)
+Read trimming (SeqTK - https://github.com/lh3/seqtk)
 
-Paired-end reads merged using (PEAR)
+Paired-end reads merged using (PEAR - https://www.h-its.org/en/research/sco/software/#NextGenerationSequencingSequenceAnalysis or FLASH - https://sourceforge.net/projects/flashpage/files/)
 
-Barcode assignment
+Barcode assignment (optional)
 
 Chimeric sequence remove using ref and de novo
 
